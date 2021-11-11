@@ -1,7 +1,8 @@
 # Mini-Projects
 Some of the small scale projects (being) worked on.
-
+<u>
 ### Beams
+</u>
 &emsp;&emsp;Predict the shear strength of Reinforced Cement Concrete Beams using ML.
 
 ### BrainBox
