@@ -2,22 +2,22 @@
 Some of the small scale projects (being) worked on.
 
 ### Beams
-&emsp;Predict the shear strength of Reinforced Cement Concrete Beams using ML.
+&emsp;&emsp;Predict the shear strength of Reinforced Cement Concrete Beams using ML.
 
 ### BrainBox
-&emsp;A Rudimentary Blockchain backed Quiz application.
+&emsp;&emsp;A Rudimentary Blockchain backed Quiz application.
 
 ### CardFraud
-&emsp;Detect fraudulent transactions from transaction history.
+&emsp;&emsp;Detect fraudulent transactions from transaction history.
 
 ### Covid19
-&emsp;Interactive Visualization of active cases trend in India.
+&emsp;&emsp;Interactive Visualization of active cases trend in India.
 
 ### Inshorts
-&emsp;Topic Modelling for Inshorts news articles.
+&emsp;&emsp;Topic Modelling for Inshorts news articles.
 
 ### NbConvert
-&emsp;In house solution to convert Jupyter Notebooks to html.
+&emsp;&emsp;In house solution to convert Jupyter Notebooks to html.
 
 ### Senty
-&emsp;Visualize the negativity in the news.
+&emsp;&emsp;Visualize the negativity in the news.
